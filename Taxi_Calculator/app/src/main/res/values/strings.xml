@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taxi_Calculator</string>
+    <string name="費率">費率 :</string>
+    <string name="距離">距離 :</string>
+    <string name="費用">費用 :</string>
+    <string name="每">每</string>
+    <string name="公尺加收">公尺，加收</string>
+    <string name="元">元</string>
+    <string name="費用計算">費用計算</string>
+</resources>
